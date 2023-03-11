@@ -4,9 +4,9 @@ Strings and Words: In this project you are writing a program to perform various 
 
 
 To run:
-1. please download both the course_project.py and the test1.txt file and place it in the same directory.
+1. Download both the course_project.py and the test1.txt file and place it in the same directory.
 2. Open terminal on your device and navigate to the directory that you saved both files to.
-3. type the command 'python3 course_project.py'
+3. Type the command 'python3 course_project.py'
 
 Modifications:
 This program can take text  files and give the frequency of each uniqe word. You just have to change the name of the text file and make sure that file and this program are in the same directory. In addition, you must also change the name in line 28 to do the  testing on that file. 
