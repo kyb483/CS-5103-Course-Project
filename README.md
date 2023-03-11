@@ -9,13 +9,13 @@ To run:
 3. Type the command 'python3 Project_Code.py'
 
 Modifications:
-This program can take text  files and give the frequency of each uniqe word. You just have to change the name of the text file and make sure that file and this program are in the same directory. In addition, you must also change the name in line 28 to do the  testing on that file. 
+This program can take text  files and give the frequency of each uniqe word. You have to change the name of the text file and make sure that file and this program are in the same directory. In addition, you must also change the name in line 28 to do the  testing on that file. 
 
 
 Test Case
 1. Checking to see if the particular word is present in the string.
    Test 1 - word we check is "the" (True)
    Test 2 - word we check is "look" (False)
-2. Checking to see if a paricular words occurance is accurate. 
-   Test 1 - word we check is "the" for occurance of 3 (True)
-   Test 2 - word we check is "way" for occurance of 3 (False)
+2. Checking to see if a particular words occurrence  is accurate. 
+   Test 1 - word we check is "the" for occurrence  of 3 (True)
+   Test 2 - word we check is "way" for occurrence  of 3 (False)
