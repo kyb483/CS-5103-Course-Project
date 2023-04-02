@@ -9,10 +9,7 @@ Added the feature to get the Line and Character Count.
 To run:
 1. Download both the Project_Code.py and the test1.txt file and place it in the same directory.
 2. Open terminal on your device and navigate to the directory that you saved both files to.
-3. Type the command 'python3 Project_Code.py'
-
-Modifications:
-This program can take text  files and give the frequency of each uniqe word, the Line Count and the Character Count. You have to change the name of the text file and make sure that file and this program are in the same directory. 
+3. Type the command 'python3 Project_code.py'
 
 
 Test Case
