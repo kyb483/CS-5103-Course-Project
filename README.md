@@ -4,6 +4,7 @@ Strings and Words: In this project you are writing a program to perform various 
 
 Addition:
 Added the feature to get the Line and Character Count. 
+Added the feature to switch all occurance of a word to another word. 
 
 
 To run:
@@ -25,3 +26,6 @@ Test Case
 4. Checking to see the Character count for the String.
    Test 1 - We check to see if the string has 521 characters (True)
    Test 2 - We check to see if the string has 1000 characters (False)
+5. Checking to see the word that was switched is in the string. 
+   Test 1 - We check to see if the word "hello" is in the String after it has been switched for "you" (True)
+   Test 2 - We check to see if the word "hotel" is in the String after it has been switched for "you" (False)
